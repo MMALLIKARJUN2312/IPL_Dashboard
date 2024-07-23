@@ -1,0 +1,85 @@
+/* Write your CSS here */
+
+.latest-match-container {
+    margin-top: 25px;
+}
+
+.main-heading {
+    font-family: "Bree Serif";
+    font-size: 18px;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+.latest-match-card {
+    display: flex;
+    flex-direction: column;
+    background-color: #0f172a;
+    border-radius: 14px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+
+.latest-match-details-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding-left: 18px;
+    padding-right: 18px;
+}
+
+.container1 {
+    width: 70%;
+}
+
+.competing-team {
+    font-family: "Bree Serif";
+    font-size: 23px;
+    color: #ffffff;
+}
+
+.date {
+    font-family: "Bree Serif";
+    font-size: 18px;
+    color: #ffffff;
+}
+
+.venue {
+    font-family: "Bree Serif";
+    font-size: 14px;
+    color: #ffffff;
+}
+
+.result {
+    font-family: "Bree Serif";
+    font-size: 14px;
+    color: #ffffff;
+}
+
+.latest-match-team-logo {
+    max-height: 61px;
+}
+
+.separator {
+    width: 100%;
+    border: 1px solid #475569;
+}
+
+.container2 {
+    width: 100%;
+    padding-left: 18px;
+    padding-right: 18px;
+}
+
+.latest-match-details-label {
+    font-family: "Bree Serif";
+    font-size: 18px;
+    color: #ffffff;
+}
+
+.latest-match-details-value {
+    font-family: "Bree Serif";
+    font-size: 16px;
+    color: #ffffff;
+}
